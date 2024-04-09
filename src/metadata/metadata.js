@@ -38,22 +38,11 @@ Desenvolvimento de software específico para o gerenciamento e acompanhamento de
 `
     },
     {
-      title: 'Prefeitura Municipal de Senador Canedo',
-      period: 'Prefeitura Municipal de Senador Canedo 2023 - 01/2024',
-      skills: ['PHP', 'JavaScript', 'JQuery', 'HTML', 'CSS'],
-      contents: `
-Desenvolvimento de software específico para o gerenciamento e acompanhamento de ações  relacionadas  ao 
-      bem-estar animal do município. O aplicativo visa otimizar os processos de registro, controle e acompan-
-      hamento das atividades realizadas pela equipe responsável pela área, além de promover a transparência e
-      a acessibilidade das informações para a comunidade.
-`
-    },
-    {
       title: 'TI - Analista Desenvolvedor',
-      period: '1995 - 2018',
-      skills: ['comedy', 'love'],
+      period: 'HP Transportes Ltda 1995 - 2018',
+      skills: ['Cobol II', 'Visual Basic', 'Oracle', 'PHP Procedural'],
       contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
+Desenvolvimento e manutenção nos Aplicativos de: Recurso Humados, Folha de pagamento, Absenteismo, Pneumático, Arecadação, os aplicativos foram desenvovidos em Cobol II, Visual Basic, bando de dados Oracle e arquivos ISAM, no caso do Cobol. Integração do sistema de arecadação com o Setransp, atraves dos consentradores (SGDB Oracle).
 `
     },
     {
