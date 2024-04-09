@@ -46,11 +46,11 @@ Desenvolvimento e manutenção nos Aplicativos de: Recurso Humados, Folha de pag
 `
     },
     {
-      title: 'The Tragedy of Romeo and Juliet',
-      period: '1595–1596, with a possible early draft written in 1591',
-      skills: ['tragedy', 'death', 'love'],
+      title: 'Lider de Equipe',
+      period: 'R7 Informática ME: 5 anos atendendo Goiânia e região 2008 a 2013',
+      skills: ['Venda', 'Montagem de Computadores', 'Manutenção preventiva e corretiva de Computadores'],
       contents: `
-In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
+Empresa de revenda de produtos de informática, incluindo computadores, notebooks, impressoras, softwares, acessórios e muito mais, com uma equipe técnica especializada para prestar serviços de manutenção preventiva e corretiva em computadores desktops e notebooks.
 `
     }
   ],
