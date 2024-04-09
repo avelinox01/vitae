@@ -7,7 +7,8 @@ module.exports = {
                   <i class="fa-brands fa-wikipedia-w fact-icon"></i>Avelino
                 </a>`,
     'X': `<a href="#e"><i class="fa-brands fa-twitter fact-icon"></i>Avelino</a>`,
-    'Email': '<a href="mailto:avelinox01@gmail.com"><i class="fa fa-envelope fact-icon"></i>avelinox01@gmail.com</a>'
+    'Email': '<a href="mailto:avelinox01@gmail.com"><i class="fa fa-envelope fact-icon"></i>avelinox01@gmail.com</a>',
+    'WhatSap': '<a href="mailto:avelinox01@gmail.com"><i class="fa-brands fa-whatsapp"></i>(62) 99271-4963</a>'
   },
   skills: [
     ['PHP', 100],
