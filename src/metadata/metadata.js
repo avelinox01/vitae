@@ -42,7 +42,7 @@ module.exports = {
       period: 'Prefeitura Municipal de Senador Canedo 2023 - 01/2024',
       skills: ['PHP', 'JavaScript', 'JQuery', 'HTML', 'CSS'],
       contents: `
-      Desenvolvimento de software específico para o gerenciamento e acompanhamento de ações  relacionadas  ao 
+Desenvolvimento de software específico para o gerenciamento e acompanhamento de ações  relacionadas  ao 
       bem-estar animal do município. O aplicativo visa otimizar os processos de registro, controle e acompan-
       hamento das atividades realizadas pela equipe responsável pela área, além de promover a transparência e
       a acessibilidade das informações para a comunidade.
