@@ -23,7 +23,7 @@ module.exports = {
     ['ScriptCase', 80],
     ['HTML', 100],
     ['CSS', 100],
-    ['Low-Code  ScriptCase']
+    ['Low-Code ScriptCase']
   ],
   positions: [
     {
