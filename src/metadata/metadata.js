@@ -25,11 +25,11 @@ module.exports = {
   ],
   positions: [
     {
-      title: 'Hamlet',
-      period: 'Likely early 17th century',
+      title: 'Prefeitura Municipal de Senador Canedo',
+      period: 'Prefeitura Municipal de Senador Canedo 2023 - 01/2024',
       skills: ['tragedy', 'philosophy', 'death'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+      Desenvolvimento de software específico para o gerenciamento e acompanhamento de ações relacionadas ao bem-estar animal do município. O aplicativo visa otimizar os processos de registro, controle e acompanhamento das atividades realizadas pela equipe responsável pela área, além de promover a transparência e a acessibilidade das informações para a comunidade.
 `
     },
     {
