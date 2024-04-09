@@ -10,21 +10,21 @@ module.exports = {
     'Email': '<a href="mailto:avelinox01@gmail.com"><i class="fa fa-envelope fact-icon"></i>avelinox01@gmail.com</a>',
     'WhatSapp': '<a href="mailto:avelinox01@gmail.com"><i class="fa-brands fa-square-whatsapp"></i> (62) 99271-4963</a>'
   },
-  skills: [
-    ['PHP', 100],
-    ['Cobol II', 100],
-    ['Laravel', 100],
-    ['JavaScript', 100],
-    ['JQuery', 100],
-    ['MySql', 60],
-    ['MariaDB', 100],
-    ['Oracle Básico', 100],
-    ['PL-SQL', 100],
-    ['ScriptCase', 80],
-    ['HTML', 100],
-    ['CSS', 100],
-    ['Low-Code: ScriptCase']
-  ],
+  // skills: [
+  //   ['PHP', 100],
+  //   ['Cobol II', 100],
+  //   ['Laravel', 100],
+  //   ['JavaScript', 100],
+  //   ['JQuery', 100],
+  //   ['MySql', 60],
+  //   ['MariaDB', 100],
+  //   ['Oracle Básico', 100],
+  //   ['PL-SQL', 100],
+  //   ['ScriptCase', 80],
+  //   ['HTML', 100],
+  //   ['CSS', 100],
+  //   ['Low-Code: ScriptCase']
+  // ],
   positions: [
     {
       title: 'Prefeitura Municipal de Senador Canedo',
