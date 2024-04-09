@@ -9,7 +9,6 @@ module.exports = {
     'X': `<a href="#e"><i class="fa-brands fa-twitter fact-icon"></i>Avelino</a>`,
     'Email': '<a href="mailto:avelinox01@gmail.com"><i class="fa fa-envelope fact-icon"></i>avelinox01@gmail.com</a>',
     'WhatSapp': '<a href="https://wa.me/5562992714963"><i class="fa-brands fa-square-whatsapp fact-icon"></i> Avelino </a>'
-    'WhatSapp': '<a href="https://wa.me/5562992714963"><i class="fa-brands fa-square-whatsapp fact-icon"></i> Avelino </a>'
   },
   // skills: [
   //   ['PHP', 100],
