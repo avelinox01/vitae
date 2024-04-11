@@ -54,20 +54,20 @@ Empresa de revenda de produtos de informática, incluindo computadores, notebook
 `
     }
   ],
-  experience: [
-//     {
-//       header: 'Desempenho',
-//       skills: ['theater', 'play'],
-//       contents: `
-// Milhares de representações das minhas peças foram encenadas desde o final do século XVI. Muitas das minhas maiores peças foram representadas pelas companhias de teatro Lord Chamberlain's Men e King's Men nos teatros [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) e Blackfriars.
-// `
-//     },
-//     {
-//       header: 'Poetry',
-//       skills: ['poetry', 'erotic'],
-//       contents: `
-// In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. I dedicated them to Henry Wriothesley, Earl of Southampton.
-// `
-//     }
-  ]
+//   experience: [
+// //     {
+// //       header: 'Desempenho',
+// //       skills: ['theater', 'play'],
+// //       contents: `
+// // Milhares de representações das minhas peças foram encenadas desde o final do século XVI. Muitas das minhas maiores peças foram representadas pelas companhias de teatro Lord Chamberlain's Men e King's Men nos teatros [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) e Blackfriars.
+// // `
+// //     },
+// //     {
+// //       header: 'Poetry',
+// //       skills: ['poetry', 'erotic'],
+// //       contents: `
+// // In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. I dedicated them to Henry Wriothesley, Earl of Southampton.
+// // `
+// //     }
+//   ]
 };
