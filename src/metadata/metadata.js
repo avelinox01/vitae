@@ -11,6 +11,7 @@ module.exports = {
     //               <i class="fa-brands fa-wikipedia-w fact-icon"></i>Avelino
     //             </a>`,
     // 'X': `<a href="#e"><i class="fa-brands fa-twitter fact-icon"></i>Avelino</a>`,
+    
 
   // skills: [
   //   ['PHP', 100],
