@@ -3,13 +3,15 @@ module.exports = {
   title: 'Desenvolvedor de Software Full-Stack',
   facts: {
     'Residence': '<a href="https://maps.app.goo.gl/rp3en4fr6Neh7NraA"><i class="fa fa-home fact-icon"></i>Goiânia</a>',
-    'Wiki': `<a href="#">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>Avelino
-                </a>`,
-    'X': `<a href="#e"><i class="fa-brands fa-twitter fact-icon"></i>Avelino</a>`,
     'Email': '<a href="mailto:avelinox01@gmail.com"><i class="fa fa-envelope fact-icon"></i>avelinox01@gmail.com</a>',
     'WhatSapp': '<a href="https://wa.me/5562992714963"><i class="fa-brands fa-square-whatsapp fact-icon"></i> Avelino </a>'
   },
+
+    // 'Wiki': `<a href="#">
+    //               <i class="fa-brands fa-wikipedia-w fact-icon"></i>Avelino
+    //             </a>`,
+    // 'X': `<a href="#e"><i class="fa-brands fa-twitter fact-icon"></i>Avelino</a>`,
+
   // skills: [
   //   ['PHP', 100],
   //   ['Cobol II', 100],
